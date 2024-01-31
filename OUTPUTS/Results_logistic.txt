@@ -1,0 +1,37 @@
+LOGISTIC
+MUSK1
+Mean AUC: 76.3±7.199999999999999
+Mean Accuracy: 82.6±8.6
+
+MUSK2
+Mean AUC: 75.7±7.5
+Mean Accuracy: 84.3±9.0
+
+TIGER
+Mean AUC: 80.7±4.5
+Mean Accuracy: 88.7±5.2
+
+FOX
+Mean AUC: 63.0±5.1
+Mean Accuracy: 66.2±8.6
+
+ELEPHANT
+Mean AUC: 83.5±6.2
+Mean Accuracy: 90.7±5.0
+
+V1
+Mean AUC: 100.0±0.0
+Mean Accuracy: 100.0±0.0
+
+V2
+Mean AUC: 78.9±0.0
+Mean Accuracy: 100.0±0.0
+
+V3
+Mean AUC: 65.8±0.0
+Mean Accuracy: 94.5±0.0
+
+V4
+Mean AUC: 97.39999999999999±0.0
+Mean Accuracy: 99.8±0.3
+

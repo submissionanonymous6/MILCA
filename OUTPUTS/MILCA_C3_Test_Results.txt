@@ -1,0 +1,81 @@
+MUSK1
+Test AUC mean: 90.3±2.4516642645912134
+Test Accuracy mean: 91.10000000000001±2.4516642645912134
+With LR: 0.005
+And WD: 0.001
+And BS: 16
+And cutoff: 0.01
+
+
+MUSK2
+Test AUC mean: 85.7±3.453670857561845
+Test Accuracy mean: 86.2±3.453670857561845
+With LR: 0.005
+And WD: 0.01
+And BS: 4
+And cutoff: 0.005
+
+
+TIGER
+Test AUC mean: 87.6±1.7832757244987254
+Test Accuracy mean: 87.2±1.7832757244987254
+With LR: 0.01
+And WD: 0
+And BS: 32
+And cutoff: 0.01
+
+
+FOX
+Test AUC mean: 68.7±2.6491317463902724
+Test Accuracy mean: 70.19999999999999±2.6491317463902724
+With LR: 0.05
+And WD: 0
+And BS: 4
+And cutoff: 0.005
+
+
+ELEPHANT
+Test AUC mean: 91.10000000000001±1.5181043462281016
+Test Accuracy mean: 88.0±1.5181043462281016
+With LR: 0.005
+And WD: 0.001
+And BS: 32
+And cutoff: 0.01
+
+
+V1
+Test AUC mean: 97.39999999999999±0.6410708390115263
+Test Accuracy mean: 97.1±0.6410708390115263
+With LR: 0.001
+And WD: 0.005
+And BS: 32
+And cutoff: 0.01
+
+
+V2
+Test AUC mean: 82.1±6.156836136294114
+Test Accuracy mean: 94.69999999999999±6.156836136294114
+With LR: 0.05
+And WD: 0
+And BS: 32
+And cutoff: 0.005
+
+
+V3
+Test AUC mean: 91.5±0.5914497810330359
+Test Accuracy mean: 92.9±0.5914497810330359
+With LR: 0.005
+And WD: 0
+And BS: 8
+And cutoff: 0.005
+
+
+V4
+Test AUC mean: 100.0±0.0
+Test Accuracy mean: 100.0±0.0
+With LR: 0.0005
+And WD: 0.001
+And BS: 8
+And cutoff: 0.005
+
+
